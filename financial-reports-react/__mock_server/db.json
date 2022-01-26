@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "key": 1,
+      "name": "KevinChen"
+    }
+  ],
+  "templates": [],
+  "jobs": [],
+  "summaryTemplates": [],
+  "departmentTree": [
+    {
+      "title": "西安分公司",
+      "key": "西安分公司",
+      "checkable": false,
+      "isDept": true,
+      "children": [
+        {
+          "title": "张叁",
+          "key": "张叁"
+        },
+        {
+          "title": "李四",
+          "key": "李四"
+        },
+        {
+          "title": "王五",
+          "key": "王五"
+        }
+      ]
+    },
+    {
+      "title": "上海分公司",
+      "key": "上海分公司",
+      "isDept": true,
+      "checkable": false,
+      "children": [
+        {
+          "title": "刘平",
+          "key": "刘平"
+        },
+        {
+          "title": "陈辰",
+          "key": "陈辰"
+        },
+        {
+          "title": "何夕",
+          "key": "何夕"
+        }
+      ]
+    }
+  ],
+  "staffs": [
+    {
+      "title": "张叁",
+      "key": "张叁"
+    },
+    {
+      "title": "李四",
+      "key": "李四"
+    },
+    {
+      "title": "王五",
+      "key": "王五"
+    },
+    {
+      "title": "刘平",
+      "key": "刘平"
+    },
+    {
+      "title": "陈辰",
+      "key": "陈辰"
+    },
+    {
+      "title": "何夕",
+      "key": "何夕"
+    }
+  ]
+}
